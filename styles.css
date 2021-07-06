@@ -1,0 +1,78 @@
+*/
+.text-small {
+    font-size: 0.9rem !important;
+}
+
+.header {
+    background-color: #00d0ffab;
+    background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 100%);
+}
+
+.section-1 {
+    background-image:url('./resources/images/gray.jpg;');
+    
+}
+
+.section-2 {
+    background: white;
+}
+
+.section-3 {
+    background: #EAEAEA;
+}
+
+.section-4 {
+    background: #E5E5E5;
+}
+
+
+body {
+    background-color: white
+}
+
+.sale {
+    flex-direction: row-reverse
+}
+
+.card {
+    width: fit-content
+}
+
+.card-body {
+    width: fit-content
+}
+
+.btn {
+    border-radius: 0;
+   
+    box-shadow: 0px 10px 10px #E0E0E0;
+  
+    color: white;
+    font-size: 14px;
+    font-weight: 900
+}
+
+.img-thumbnail {
+    border: none
+}
+
+.card {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    padding-bottom: 10px
+}
+
+.card-title {
+    font-size: 14px;
+    font-weight: 900
+}
+
+.card-text {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 500
+}
+
+.text-color {
+    color: #fff
+}
